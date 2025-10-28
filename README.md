@@ -81,6 +81,7 @@ plotQualityProfile(fnFs[1:2])
 ```{r}
 plotQualityProfile(fnRs[1:2])
 ```
+![blabla](1.png)
 # Création des chemins de sortie pour les fichiers filtrés (lectures forward)
 # On utilise file.path() pour faire un chemin complet :
 #   - "path" = dossier principal (~/MiSeq_SOP)
